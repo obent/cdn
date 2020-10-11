@@ -2,7 +2,9 @@
 
 # Hexo Static of Jsdelivr.
 别赞，要脸QWQ
+
 此库为使用jsdelivr的cdn加速库;
+
 私用;
 
 ## 公益精选二次元图片API:
@@ -14,6 +16,10 @@ https://work.dxinj.com/img/api.php
 用于顶部图片的剪裁版
 
 https://work.dxinj.com/img/api.php?cut=yes
+
+## Hea精选网图
+
+https://work.dxinj.com/hea/api.php
 
 ## Links:
 
