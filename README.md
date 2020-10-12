@@ -1,6 +1,6 @@
 ![img](https://cdn.jsdelivr.net/gh/obent/cdn@1.5/img/cover/001cut.jpg)
 
-# Hexo Static of Jsdelivr.
+# ARK 01 |Hexo Static of Jsdelivr.
 别赞，要脸QWQ
 
 此库为使用jsdelivr的cdn加速库;
